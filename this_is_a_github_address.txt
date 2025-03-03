@@ -1,4 +1,5 @@
 int mian()
 {
-
+    while（1）
+	{}
 }
